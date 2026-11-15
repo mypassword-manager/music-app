@@ -1,3 +1,4 @@
+{% raw %}
 # Dashboard Layout Documentation
 
 ## Overview
@@ -499,3 +500,4 @@ navigation: {
 ## Integration with Other Components
 
 The Dashboard layout works seamlessly with all shadcn/ui components from `@/components/ui/` — drop in `Card`, `Table`, `Tabs`, `Dialog`, and the rest directly inside the dashboard content area.
+{% endraw %}
