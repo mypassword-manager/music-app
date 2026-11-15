@@ -1,0 +1,98 @@
+{
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/fe73838f-79b6-4f52-b041-2dda73cdf27b/horizontal-transparent-8d978402-f58b-4f49-8c24-7db811496f4c/logo-logo.png",
+    "searchQuery": "A minimalist geometric shield logo for MyPersonal Vault — a digital security vau",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/fe73838f-79b6-4f52-b041-2dda73cdf27b/horizontal-transparent-8d978402-f58b-4f49-8c24-7db811496f4c/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/fe73838f-79b6-4f52-b041-2dda73cdf27b/horizontal-original-8d978402-f58b-4f49-8c24-7db811496f4c/logo-logo.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/fe73838f-79b6-4f52-b041-2dda73cdf27b/horizontal-transparent-8d978402-f58b-4f49-8c24-7db811496f4c/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/fe73838f-79b6-4f52-b041-2dda73cdf27b/horizontal-transparent-8d978402-f58b-4f49-8c24-7db811496f4c/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/fe73838f-79b6-4f52-b041-2dda73cdf27b/horizontal-transparent-8d978402-f58b-4f49-8c24-7db811496f4c/logo-logo.png": {
+        "sessionId": "fe73838f-79b6-4f52-b041-2dda73cdf27b",
+        "logoId": "8d978402-f58b-4f49-8c24-7db811496f4c",
+        "groupId": "426f90ec-9da0-43c8-91f4-5301e131fc79"
+      }
+    },
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/fe73838f-79b6-4f52-b041-2dda73cdf27b/horizontal-transparent-8d978402-f58b-4f49-8c24-7db811496f4c/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/fe73838f-79b6-4f52-b041-2dda73cdf27b/horizontal-mockup-mug-8d978402-f58b-4f49-8c24-7db811496f4c/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/fe73838f-79b6-4f52-b041-2dda73cdf27b/horizontal-mockup-card-8d978402-f58b-4f49-8c24-7db811496f4c/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/fe73838f-79b6-4f52-b041-2dda73cdf27b/horizontal-mockup-tshirt-8d978402-f58b-4f49-8c24-7db811496f4c/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/fe73838f-79b6-4f52-b041-2dda73cdf27b/horizontal-mockup-box-8d978402-f58b-4f49-8c24-7db811496f4c/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/fe73838f-79b6-4f52-b041-2dda73cdf27b/horizontal-mockup-mug-8d978402-f58b-4f49-8c24-7db811496f4c/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/fe73838f-79b6-4f52-b041-2dda73cdf27b/horizontal-mockup-card-8d978402-f58b-4f49-8c24-7db811496f4c/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/fe73838f-79b6-4f52-b041-2dda73cdf27b/horizontal-mockup-tshirt-8d978402-f58b-4f49-8c24-7db811496f4c/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/fe73838f-79b6-4f52-b041-2dda73cdf27b/horizontal-mockup-box-8d978402-f58b-4f49-8c24-7db811496f4c/logo-logo.png"
+      }
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-15T08:54:17.708Z",
+    "lastUpdated": "2026-11-15T08:54:50.662Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#0a0a0f",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/fe73838f-79b6-4f52-b041-2dda73cdf27b/horizontal-transparent-8d978402-f58b-4f49-8c24-7db811496f4c/logo-logo.png",
+    "logoGroupId": "426f90ec-9da0-43c8-91f4-5301e131fc79"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/71d71d95-808c-46dd-80e3-592126151cd8/favicon-transparent-e4477760-a902-4895-93f7-27f51ee09b94/logo-logo.png",
+    "searchQuery": "favicon",
+    "alternatives": [],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/71d71d95-808c-46dd-80e3-592126151cd8/favicon-transparent-e4477760-a902-4895-93f7-27f51ee09b94/logo-logo.png": {
+        "sessionId": "71d71d95-808c-46dd-80e3-592126151cd8",
+        "logoId": "e4477760-a902-4895-93f7-27f51ee09b94",
+        "groupId": "426f90ec-9da0-43c8-91f4-5301e131fc79"
+      }
+    },
+    "logoGroupId": "426f90ec-9da0-43c8-91f4-5301e131fc79",
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/71d71d95-808c-46dd-80e3-592126151cd8/favicon-transparent-e4477760-a902-4895-93f7-27f51ee09b94/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/71d71d95-808c-46dd-80e3-592126151cd8/favicon-original-e4477760-a902-4895-93f7-27f51ee09b94/logo-logo.png"
+    },
+    "userModified": false,
+    "createdAt": "2026-11-15T08:54:38.607Z",
+    "lastUpdated": "2026-11-15T08:54:50.753Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#0a0a0f",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/71d71d95-808c-46dd-80e3-592126151cd8/favicon-transparent-e4477760-a902-4895-93f7-27f51ee09b94/logo-logo.png"
+  }
+}
