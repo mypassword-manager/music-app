@@ -1,0 +1,13 @@
+{
+  "brand": "MyPersonal Vault",
+  "headline": "Welcome back",
+  "subheadline": "Sign in to access your secure vault",
+  "emailLabel": "Email address",
+  "emailPlaceholder": "you@example.com",
+  "passwordLabel": "Password",
+  "submitButton": "Sign In",
+  "submittingButton": "Signing in…",
+  "signupPrompt": "Don't have an account?",
+  "signupLink": "Create one",
+  "securityNote": "End-to-end encrypted · Zero-knowledge architecture"
+}

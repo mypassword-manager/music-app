@@ -1,1 +1,40 @@
-
+{
+  "brand": "MyPersonal Vault",
+  "headline": "Your Vault",
+  "subheadline": "All your data is encrypted and secure.",
+  "welcomePrefix": "Welcome back,",
+  "statusLabel": "VAULT STATUS: SECURED",
+  "statusNote": "End-to-end encrypted",
+  "categories": [
+    {
+      "id": "passwords",
+      "label": "Passwords",
+      "description": "items stored"
+    },
+    {
+      "id": "cards",
+      "label": "Cards",
+      "description": "items stored"
+    },
+    {
+      "id": "notes",
+      "label": "Secure Notes",
+      "description": "items stored"
+    },
+    {
+      "id": "media",
+      "label": "Files & Media",
+      "description": "items stored"
+    },
+    {
+      "id": "identities",
+      "label": "Identities",
+      "description": "items stored"
+    },
+    {
+      "id": "settings",
+      "label": "Settings",
+      "description": "Manage account"
+    }
+  ]
+}

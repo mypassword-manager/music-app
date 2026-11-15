@@ -1,0 +1,22 @@
+{
+  "brand": "MyPersonal Vault",
+  "headline": "Create your vault",
+  "subheadline": "Secure, encrypted, and yours alone",
+  "nameLabel": "Full name",
+  "namePlaceholder": "Jane Smith",
+  "emailLabel": "Email address",
+  "emailPlaceholder": "you@example.com",
+  "passwordLabel": "Master password",
+  "passwordPlaceholder": "Create a strong password",
+  "submitButton": "Create My Vault",
+  "submittingButton": "Creating vault…",
+  "signinPrompt": "Already have an account?",
+  "signinLink": "Sign in",
+  "securityNote": "Your data is encrypted before it ever leaves your device",
+  "rules": {
+    "length": "8+ characters",
+    "upper": "Uppercase letter",
+    "number": "Number",
+    "special": "Special character"
+  }
+}
